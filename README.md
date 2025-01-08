@@ -1,6 +1,9 @@
 # Shorty Shooters Web
 Source code for the website hosting [Shorty Shooters](https://github.com/HuskyGameDev/2024f-team5).
 
+![image](https://github.com/user-attachments/assets/f8766832-464b-4e0f-b2f5-3b72a8c57d9b)
+
+
 ## To update or host a different Godot game
 1. Run your godot project in compatability mode (very top right corner).
 2. Ensure that your export templates are updated.
